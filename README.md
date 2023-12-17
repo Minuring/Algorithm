@@ -31,3 +31,6 @@ count_solutions(0, 0, 0)
 return count
 print(solve_n_queens(int(input())))
 </pre>
+
+12/17
+근사 알고리즘
